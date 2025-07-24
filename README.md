@@ -15,7 +15,7 @@ Building scalable and maintainable apps with React, JS, and CSS.
 
 
 ### My stack?  
-- HTML, CSS, JavaScript,Node JS, React, WebSockets, Firebase, REST API, Git, GitHub, Responsive UI, Webpack  
+- HTML, CSS, JavaScript,Node JS, React, WebSockets, REST API, Git, GitHub, Responsive UI, Webpack  
   
 
 
